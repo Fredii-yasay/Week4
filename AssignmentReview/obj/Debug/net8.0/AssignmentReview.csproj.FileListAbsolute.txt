@@ -1,0 +1,14 @@
+C:\Users\frede\source\repos\Week4\AssignmentReview\bin\Debug\net8.0\AssignmentReview.exe
+C:\Users\frede\source\repos\Week4\AssignmentReview\bin\Debug\net8.0\AssignmentReview.deps.json
+C:\Users\frede\source\repos\Week4\AssignmentReview\bin\Debug\net8.0\AssignmentReview.runtimeconfig.json
+C:\Users\frede\source\repos\Week4\AssignmentReview\bin\Debug\net8.0\AssignmentReview.dll
+C:\Users\frede\source\repos\Week4\AssignmentReview\bin\Debug\net8.0\AssignmentReview.pdb
+C:\Users\frede\source\repos\Week4\AssignmentReview\obj\Debug\net8.0\AssignmentReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frede\source\repos\Week4\AssignmentReview\obj\Debug\net8.0\AssignmentReview.AssemblyInfoInputs.cache
+C:\Users\frede\source\repos\Week4\AssignmentReview\obj\Debug\net8.0\AssignmentReview.AssemblyInfo.cs
+C:\Users\frede\source\repos\Week4\AssignmentReview\obj\Debug\net8.0\AssignmentReview.csproj.CoreCompileInputs.cache
+C:\Users\frede\source\repos\Week4\AssignmentReview\obj\Debug\net8.0\AssignmentReview.dll
+C:\Users\frede\source\repos\Week4\AssignmentReview\obj\Debug\net8.0\refint\AssignmentReview.dll
+C:\Users\frede\source\repos\Week4\AssignmentReview\obj\Debug\net8.0\AssignmentReview.pdb
+C:\Users\frede\source\repos\Week4\AssignmentReview\obj\Debug\net8.0\AssignmentReview.genruntimeconfig.cache
+C:\Users\frede\source\repos\Week4\AssignmentReview\obj\Debug\net8.0\ref\AssignmentReview.dll
